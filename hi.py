@@ -1,3 +1,4 @@
 print("Hello, World!")
 print("Thanks for using our program!")
 print("miela test")
+print("Miela test 2")
