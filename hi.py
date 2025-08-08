@@ -1,6 +1,0 @@
-print("Hello, World!")
-print("Thanks for using our program!")
-print("miela test")
-print("Miela test 2")
-print("Miela test 3")
-print("Miela test 4")
